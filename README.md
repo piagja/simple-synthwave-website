@@ -14,5 +14,5 @@ The pictures has free copyrights!
 ![picture-tablet](https://i.imgur.com/H7eVbqr.jpg "Picture of an Tablet Version")
 
 #### Smaller Devices
-![picture-smaller](https://i.imgur.com/a0vgf6x.jpg "Picture of an Smaller Version")
+![picture-smaller](https://i.imgur.com/a0vgf6x.jpg "Picture in a Smaller Version")
 
