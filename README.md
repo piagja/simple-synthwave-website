@@ -7,7 +7,12 @@ Just clone the project and run index.html
 The pictures has free copyrights!
 
 ## Pics
-
+Desktop
 ![picture-desktop](https://i.imgur.com/393Rj7R.jpg "Picture of Desktop Version")
 
+Tablet
+![picture-tablet](https://i.imgur.com/H7eVbqr.jpg "Picture of an Tablet Version")
+
+Smaller Devices
+![picture-smaller](https://i.imgur.com/a0vgf6x.jpg "Picture of an Smaller Version")
 
