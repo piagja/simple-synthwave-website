@@ -8,6 +8,6 @@ The pictures has free copyrights!
 
 ## Pics
 
-![picture-desktop](https://imgur.com/393Rj7R "Picture of Desktop Version")
+![picture-desktop](https://i.imgur.com/393Rj7R.jpg "Picture of Desktop Version")
 
 
