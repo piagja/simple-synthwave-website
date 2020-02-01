@@ -6,4 +6,8 @@ Just clone the project and run index.html
 
 The pictures has free copyrights!
 
-Enjoy.
+## Pics
+
+![picture-desktop](https://imgur.com/393Rj7R "Picture of Desktop Version")
+
+
