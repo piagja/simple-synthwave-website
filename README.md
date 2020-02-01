@@ -4,7 +4,7 @@ I just use Flexbox display and HTML with a nice colors!
 
 Just clone the project and run index.html
 
-The pictures has free copyrights!
+The pictures and images has free copyrights!
 
 ## Pics
 #### Desktop
