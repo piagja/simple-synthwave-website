@@ -2,7 +2,7 @@
 Simple and static website created with Flexbox which symbols the nice Synthwave 80' Years colors!
 I just use Flexbox display and HTML with a nice colors!
 
-Just clone the project and run index.html
+[Live Site](https://piagja.github.io/simple-synthwave-website/)
 
 The pictures and images has free copyrights!
 
